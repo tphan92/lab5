@@ -34,3 +34,11 @@ function sortObjArray(objArray, propName) {
     });
 } //sortObjArray()
 
+function render(entries) {
+    var myTemplate = $('.template');
+    var addressBook = $('.address-book');
+    addressBook.empty();
+}
+
+
+
